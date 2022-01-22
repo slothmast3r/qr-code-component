@@ -66,11 +66,13 @@ body {
     font-weight: 700;
     font-size: 1.4rem;
     margin: 1em 0;
+    color: $darkBlue;
   }
 
   .description {
     font-size: 1rem;
     margin-bottom: 2em;
+    color: $grayishBlue;
   }
 }
 </style>
